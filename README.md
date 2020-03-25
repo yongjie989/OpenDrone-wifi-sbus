@@ -1,4 +1,4 @@
-飛控板WiFi韌體
+# 飛控板WiFi韌體
 
 版本: 1.0.1
 
@@ -8,7 +8,7 @@
 
 ---------------------------
 
-Flight Control Board WiFi Firmware
+# Flight Control Board WiFi Firmware
 
 Version: 1.0.1
 
